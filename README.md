@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](your image link)](https://github.com/DaniMSix)
 
 
 Hello everyone! I'm **Daniela Morales** 🙋‍♀️
