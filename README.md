@@ -21,8 +21,7 @@ I consider myself a curious person who likes to learn something new every day⚡
 </h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniMSix&theme=react&show_icons=true&title_color=ffffff&amp)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniMSix&theme=react&show_icons=true)"/>
+ 
 
 </p>
-
-
