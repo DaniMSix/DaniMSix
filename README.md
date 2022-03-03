@@ -5,8 +5,7 @@
 
 
 
-## About me:
-
+## About me:<img src="https://github.com/DaniMSix/DaniMSix/blob/main/star.png"  width="120" height="30" >
 
 
 
