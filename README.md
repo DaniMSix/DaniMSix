@@ -16,3 +16,5 @@ I consider myself a curious person who likes to learn something new every day⚡
 
 One of my favorite things to do in my free time is to read and paint pictures.
 
+> *Stars cannot shine without darkness*
+
